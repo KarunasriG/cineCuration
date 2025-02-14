@@ -136,20 +136,7 @@ The server will start at `http://localhost:3000`.
 
 ## **Screenshots of API Responses**
 
-### **1. Search Movies**
-![Search Movies](screenshots/search-movies.png)
-
-### **2. Add to Watchlist**
-![Add to Watchlist](screenshots/add-to-watchlist.png)
-
-### **3. Create Curated List**
-![Create Curated List](screenshots/create-curated-list.png)
-
-### **4. Add Review**
-![Add Review](screenshots/add-review.png)
-
-### **5. Get Top 5 Movies**
-![Top 5 Movies](screenshots/top5-movies.png)
+For detailed API response examples, refer to the [Google Doc](https://docs.google.com/document/d/1FEJVkIXC3JT9cyTK1zFdRBoOw2HwnoJrdkzdlYzk9eU/edit?usp=sharing).
 
 ---
 
