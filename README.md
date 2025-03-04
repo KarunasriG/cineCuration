@@ -11,7 +11,7 @@ CinePick is a movie curation app built with **Express.js**, **Sequelize**, and *
 - Add movies to **Watchlist**, **Wishlist**, or **Curated Lists**.
 - Leave reviews and ratings for movies.
 - Sort movies by rating or release year.
-- Search movies by genre or actor.
+- Search movies by genre and actor.
 - Get top 5 movies by rating with detailed reviews.
 
 ---
